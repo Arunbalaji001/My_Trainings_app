@@ -1,0 +1,44 @@
+name: my_trainings_app
+description: "My Trainings App"
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.7
+  carousel_slider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^3.0.0
+
+
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/carousel_images/image_1.jpg
+    - assets/carousel_images/image_2.jpg
+    - assets/carousel_images/image_3.jpg
+    - assets/person.jpg
