@@ -1,16 +1,16 @@
-# my_trainings_app
 
-My Trainings App
+# My Trainings App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Run from a pre-configured Android Studio with flutter sdk 
 
-A few resources to get you started if this is your first Flutter project:
+No special configuration needed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshots:
+
+
+![screenshot_3](https://github.com/user-attachments/assets/ea5aeed5-e07e-4cde-8956-eb079bb9b8e0)
+![screenshot_2](https://github.com/user-attachments/assets/1fc65ff7-ee53-46fc-b894-c235e1c7bd55)
+![screenshot_1](https://github.com/user-attachments/assets/ada73ea6-154f-452c-872e-4aab3753e58a)
